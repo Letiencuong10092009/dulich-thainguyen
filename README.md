@@ -26,43 +26,43 @@
       align-items: center;
     } 
     .banner-text h1 {
-      font-size: 40px;
-      background-color: rgba(0, 0, 0, 0.6);
+      font-size: 40 px;
+      background-color: rgba (0, 0, 0, 0.6);
       display: inline-block;
-      padding: 10px 20px;
-      border-radius: 10px;
+      padding: 10 px 20 px;
+      border-radius: 10 px;
       margin: 0;
     }
     .banner-text .sub-title {
-      font-size: 22px;
-      margin-top: 15px;
-      background-color: rgba(0, 0, 0, 0.5);
-      padding: 8px 16px;
-      border-radius: 8px;
+      font-size: 22 px;
+      margin-top: 15 px;
+      background-color: rgba (0, 0, 0, 0.5);
+      padding: 8 px 16 px;
+      border-radius: 8 px;
     }
     section {
-      padding: 20px;
-      max-width: 900px;
+      padding: 20 px;
+      max-width: 900 px;
       margin: auto;
       background: #b6b3b3;
-      margin-top: 20px;
-      border-radius: 10px;
+      margin-top: 20 px;
+      border-radius: 10 px;
     }
     .location {
-      margin-bottom: 30px;
+      margin-bottom: 30 px;
     }
     .location img {
-      width: 100%;
-      max-width: 800px;
-      border-radius: 10px;
-      margin-top: 10px;
+      width: 100 %;
+      max-width: 800 px;
+      border-radius: 10 px;
+      margin-top: 10 px;
     }
     footer {
       text-align: center;
-      padding: 10px;
+      padding: 10 px;
       background: #ebd3d3;
       color: #555a6e;
-      margin-top: 40px;
+      margin-top: 40 px;
     }
   </style>
 </head>
@@ -73,12 +73,10 @@
       <p class="sub-title">Trái tim xanh của miền núi phía Bắc</p>
     </div>
   </header>
-
   <section>
     <h2>Giới thiệu</h2>
     <p>Thái Nguyên là một tỉnh trung du miền núi phía Bắc Việt Nam, nổi tiếng với đồi chè xanh ngát, Hồ Núi Cốc thơ mộng và các di tích lịch sử cách mạng. Đây là điểm đến hấp dẫn cho du khách muốn tìm hiểu văn hóa, thiên nhiên và lịch sử. Tỉnh Thái Nguyên là một trong những trung tâm kinh tế, văn hóa, giáo dục, y tế của khu vực trung du miền núi phía Bắc, là cửa ngõ giao lưu kinh tế xã hội giữa vùng trung du miền núi phía Bắc với vùng đồng bằng Bắc Bộ.</p>
   </section>
-
   <section>
     <h2>Địa điểm nổi bật</h2>
     <div class="location">
