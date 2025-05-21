@@ -11,7 +11,6 @@
       padding: 0;
       background: #f5f5f5;
     }
-
     header {
       background: url('https://baothainguyen.vn/file//oldimage/baothainguyen/UserFiles/image/105_tetthom23.jpg') no-repeat center center/cover;
       height: 300px;
@@ -92,26 +91,22 @@
 
   <section>
     <h2>Địa điểm nổi bật</h2>
-
     <div class="location">
       <h3>Hồ Núi Cốc</h3>
       <img src="https://dulichhonuicoc.vn/wp-content/uploads/2023/06/hinh-anh-ho-nui-coc-thai-nguyen-8.png" alt="Hồ Núi Cốc" />
       <p>Hồ Núi Cốc là điểm đến nổi tiếng với cảnh quan sơn thủy hữu tình, hệ thống khu vui chơi, resort và các tour du thuyền hấp dẫn.</p>
     </div>
-
     <div class="location">
       <h3>Đồi chè Tân Cương</h3>
       <img src="https://loctancuong.vn/wp-content/uploads/2021/08/doi-che-tan-cuong-32-768x514.jpg" alt="Đồi chè Tân Cương" />
       <p>Vùng chè Tân Cương là trái tim của ngành chè Thái Nguyên. Du khách có thể trải nghiệm hái chè, uống trà và ngắm nhìn những đồi chè bát ngát.</p>
     </div>
-
     <div class="location">
       <h3>Khu ATK Định Hóa</h3>
       <img src="https://disanthiennhien.cebid.vn/wp-content/uploads/2021/06/atk-770x367.jpg" alt="ATK Định Hóa" />
       <p>Di tích lịch sử ATK Định Hóa là nơi Chủ tịch Hồ Chí Minh và Trung ương Đảng làm việc trong kháng chiến. Đây là địa chỉ đỏ về giáo dục truyền thống yêu nước.</p>
     </div>
   </section>
-
   <section>
     <h2>Món ăn đặc sản</h2>
     <ul>
@@ -122,10 +117,8 @@
       <li>Tương nếp Úc Kì</li>
     </ul>
   </section>
-
   <footer>
     &copy; 2025 Du lịch Thái Nguyên | Thiết kế bởi bạn và Lê Tiến Cường
   </footer>
-
 </body>
 </html>
