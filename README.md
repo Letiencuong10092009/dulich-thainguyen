@@ -20,15 +20,11 @@
       justify-content: center;
       align-items: center;
     }
-
     .banner-text {
       display: flex;
       flex-direction: column;
       align-items: center;
-    }
-
-
-    
+    } 
     .banner-text h1 {
       font-size: 40px;
       background-color: rgba(0, 0, 0, 0.6);
@@ -37,7 +33,6 @@
       border-radius: 10px;
       margin: 0;
     }
-
     .banner-text .sub-title {
       font-size: 22px;
       margin-top: 15px;
@@ -45,7 +40,6 @@
       padding: 8px 16px;
       border-radius: 8px;
     }
-
     section {
       padding: 20px;
       max-width: 900px;
@@ -54,18 +48,15 @@
       margin-top: 20px;
       border-radius: 10px;
     }
-
     .location {
       margin-bottom: 30px;
     }
-
     .location img {
       width: 100%;
       max-width: 800px;
       border-radius: 10px;
       margin-top: 10px;
     }
-
     footer {
       text-align: center;
       padding: 10px;
@@ -76,7 +67,6 @@
   </style>
 </head>
 <body>
-
   <header>
     <div class="banner-text">
       <h1>Khám phá du lịch Thái Nguyên</h1>
